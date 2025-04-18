@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrmaduro&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmaduro&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -36,7 +36,7 @@
 ## 🔥 Recent Activity
 
 <!-- GitHub Readme Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rrmaduro&theme=github-dark&hide_border=true&area=true)
 
 ---
 
