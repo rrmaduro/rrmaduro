@@ -32,7 +32,7 @@
 - 🔐 Built a secure **OTP-based login system** using **Node.js** for the application configurator.
 - 📦 Contributed to web-based solutions for system configuration in the **industrial automation sector**.
 
-> *Note: Project repository is confidential due to NDA.*
+> *Note: Project repository is confidential due to a NDA.*
 > 
 ---
 
