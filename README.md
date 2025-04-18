@@ -13,6 +13,29 @@
   - Computer Security • Artificial Intelligence • Human-Computer Interaction  
 ---
 
+## 🧑‍💻 Experience
+
+### **Frontend Developer – Petrotec**  
+📍 *Seixal, Portugal* &nbsp;&nbsp;📅 *01/07/2024 – 31/07/2024*  
+🔗 [www.petrotec.com](https://www.petrotec.com)  
+
+**Main Technologies:**  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Vuex](https://img.shields.io/badge/-Vuex-35495E?logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20APIs-005571?logo=api&logoColor=white)
+
+**Key Responsibilities:**
+- 🔧 Developed responsive, user-friendly interfaces using **Bootstrap Vue**.
+- 🔁 Implemented centralized **state management** via **Vuex Store**, enhancing scalability and maintainability.
+- 🔐 Built a secure **OTP-based login system** using **Node.js** for the application configurator.
+- 📦 Contributed to web-based solutions for system configuration in the **industrial automation sector**.
+
+> *Note: Project repository is confidential due to NDA.*
+> 
+---
+
 ## 🛠️ Technical Toolkit
 
 ### **Languages**
