@@ -4,11 +4,26 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5D3FD3&center=true&width=520&lines=IT+Operations+%26+Observability;Configuration+Management+%26+APM;Front+end+%2F+Back+end+Developer" alt="Typing Animation" />
 
+<sub>
+
+```
+$ git log --oneline -1
+a3f9c21 feat(career): shipped 1 year of ITSM and observability experience
+```
+
+</sub>
+
 <br/>
 
 <a href="https://www.linkedin.com/in/rmaduro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rodrigo.rmaduro@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://rrmaduro.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/status-open%20to%20opportunities-2ea44f?style=flat-square" />
+<img src="https://img.shields.io/badge/based%20in-Lisbon%2C%20Portugal-5D3FD3?style=flat-square" />
+<img src="https://img.shields.io/badge/EN-C1-1BA1E2?style=flat-square" />
 
 </div>
 
@@ -16,7 +31,28 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="42%" valign="top">
+
+```bash
+$ whoami
+> Rodrigo Maduro
+> role     Junior ITSM Consultant
+> company  Timestamp
+> studies  BSc Computer Science and Engineering
+> focus    ITOM, Observability, CMDB, APM
+> based_in Lisbon, Portugal
+
+$ cat currently.txt
+🔭 Working on IT Discovery and service
+   mapping projects at Timestamp
+🌱 Learning enterprise observability
+   tooling and workflow automation
+💬 Ask me about ITSM, Vue.js or
+   front end development
+```
+
+</td>
+<td width="58%" valign="top">
 
 ### 🙋 About Me
 
@@ -34,132 +70,124 @@ With a background spanning software development and consulting, I aim to bridge 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5D3FD3,100:1BA1E2&height=3&section=header" width="100%"/>
 
-## 🧑‍💻 Experience
+## 📦 Changelog
+
+<i>Career, versioned like a project.</i>
+
+<br/>
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="90"><code>v2.0.0</code></td><td>
 
-<h3>🔭 Junior ITSM Consultant</h3>
-<b>Timestamp</b> · Lisbon, Portugal
-<br/>📅 September 2025 · Current
-<br/>🔗 <a href="https://www.timestampgroup.com/">timestampgroup.com</a>
+**Junior ITSM Consultant** · Timestamp · Lisbon, Portugal
+<br/><sub>2025-09 → present · <a href="https://www.timestampgroup.com/">timestampgroup.com</a></sub>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/-OpenText%20UCMDB-FF0000?style=flat-square&logoColor=white" />
+<ins>Added</ins>
+- IT Discovery and Configuration Management workflows using OpenText UCMDB and Universal Discovery
+- Application Performance Monitoring with Cisco AppDynamics to surface bottlenecks
+- Service mapping and dependency modeling across enterprise infrastructure
+- Workflow automation and data integration via OpenText SMAX, Operations Orchestration, and ETL tooling
+
+<sub>
+<img src="https://img.shields.io/badge/-UCMDB-FF0000?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/-Universal%20Discovery-FF0000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20AppDynamics-1BA1E2?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenText%20SMAX-FF0000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/-AppDynamics-1BA1E2?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/-SMAX-FF0000?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+</sub>
 
-<br/><br/>
+</td></tr>
 
-• Supports ITSM initiatives focused on IT Discovery and Application Performance Management<br/>
-• Contributes to ITOM and observability projects using UCMDB and Universal Discovery<br/>
-• Monitors application performance with Cisco AppDynamics to identify bottlenecks<br/>
-• Assists with service mapping and dependency modeling across infrastructure<br/>
-• Supports workflow automation using SMAX, Operations Orchestration and ETL tools
+<tr><td colspan="2"><br/></td></tr>
 
-</td>
-<td width="50%" valign="top">
+<tr><td width="90"><code>v1.0.0</code></td><td>
 
-<h3>💻 Analyst / Frontend Developer</h3>
-<b>Petrotec</b> · Seixal, Portugal
-<br/>📅 July 2024 (1 month)
-<br/>🔗 <a href="https://www.petrotec.com">petrotec.com</a>
+**Analyst / Frontend Developer** · Petrotec · Seixal, Portugal
+<br/><sub>2024-07 (1 month) · <a href="https://www.petrotec.com">petrotec.com</a></sub>
 
-<br/><br/>
+<br/>
 
+<ins>Added</ins>
+- Responsive, intuitive interfaces built with Bootstrap Vue
+- Vuex Store for centralized, scalable state management
+- A One Time Password login flow for the app configurator, built with Node.js
+- Web based tooling for industrial automation systems configuration
+
+<sub>
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vuex-35495E?style=flat-square&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square&logo=api&logoColor=white" />
+</sub>
 
-<br/><br/>
+<br/><br/><sub><i>Source private — shipped under NDA.</i></sub>
 
-• Built responsive, intuitive interfaces using Bootstrap Vue<br/>
-• Implemented Vuex Store for centralized, scalable state management<br/>
-• Developed a One Time Password login system for the configurator using Node.js<br/>
-• Contributed to web based solutions for industrial automation systems
-
-<br/><br/>
-<i>Project repository is confidential due to an NDA.</i>
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5D3FD3,100:1BA1E2&height=3&section=header" width="100%"/>
 
-## 🛠️ Technical Toolkit
+## 🛠️ Stack
+
+<sub>package.json</sub>
+
+```json
+{
+  "name": "rodrigo-maduro",
+  "version": "4.0.0",
+  "dependencies": {
+    "itOperations": ["UCMDB", "Universal Discovery", "AppDynamics", "SMAX", "Operations Orchestration"],
+    "automation": ["n8n", "Apache Airflow", "ETL pipelines"],
+    "languages": ["Python", "Java", "JavaScript", "TypeScript", "C", "C#"],
+    "web": ["Node.js", "Vue.js", "Vuex", "Angular", "HTML5", "CSS3", "Bootstrap"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB", "SQL Server"]
+  },
+  "devDependencies": {
+    "tools": ["Git", "GitHub", "Postman", "Jira", "Confluence"]
+  }
+}
+```
 
 <div align="center">
 
-**IT Operations & Observability**
-<br/>
-<img src="https://img.shields.io/badge/-OpenText%20UCMDB-FF0000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Universal%20Discovery-FF0000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20AppDynamics-1BA1E2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenText%20SMAX-FF0000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-
-<br/><br/>
-
-**Languages & Web Development**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cs,html,css,nodejs,angular,vue,bootstrap" />
-
-<br/><br/>
-
-**Databases**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-<br/><br/>
-
-**Tools & Platforms**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,unity,arduino" />
-<img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cs,html,css,nodejs,vue,angular,bootstrap,mysql,postgres,mongodb,git,github,postman,unity,arduino" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5D3FD3,100:1BA1E2&height=3&section=header" width="100%"/>
 
-## 📚 Education & Languages
+## 🎓 Education
+
+```
+[2022-09] INFO   enrolled     BSc Computer Science and Engineering — IPS
+[2022]    INFO   certified    Cambridge English Advanced (C1)
+[2026]    INFO   status       final year, expected graduation 2026
+```
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-<h3>🎓 Bachelor's Degree in Computer Science and Engineering</h3>
-<b>Instituto Politécnico de Setúbal</b> · 2022 · Current
-<br/><br/>
-Field of study: Software and applications development and analysis
+**Instituto Politécnico de Setúbal** · Setúbal, Portugal
+<br/><sub>Field: Software and applications development and analysis · EQF Level 6 · 180 ECTS</sub>
+
 <br/>
-EQF Level 6 · 180 ECTS
-<br/><br/>
+
 Coursework: Algorithms & Data Structures, Object Oriented Programming, Web Development, Database Systems, Parallel/Distributed Computing, Software Engineering, Computer Security, Artificial Intelligence, Human Computer Interaction
 
 </td>
 <td width="45%" valign="top">
-
-<h3>🌍 Languages</h3>
 
 | Language | Level |
 |:--|:--:|
 | Portuguese | Native |
 | English | C1 (CAE) |
 
-<br/>
-
-Certified by the Cambridge English Advanced (CAE) exam.
+<sub>Certified by the Cambridge English Advanced (CAE) exam.</sub>
 
 </td>
 </tr>
@@ -176,7 +204,5 @@ Certified by the Cambridge English Advanced (CAE) exam.
 <a href="https://rrmaduro.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BA1E2,100:5D3FD3&height=100&section=footer" width="100%"/>
 
 </div>
