@@ -192,16 +192,6 @@ $ whoami
 <a href="mailto:rodrigo.rmaduro@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://rrmaduro.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rrmaduro&style=flat-square&color=5D3FD3&label=profile+views" />
-
-<br/><br/>
-
-<sub><i>&lt;/&gt; built with Markdown, curiosity, and a lot of coffee.</i></sub>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BA1E2,100:5D3FD3&height=100&section=footer" width="100%"/>
 
 </div>
